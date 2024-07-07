@@ -1,0 +1,97 @@
+// .container-page {
+//   margin-right: auto;
+//   margin-left: auto;
+//   padding: 50px 50px;
+//   width: 900px;
+//   border-left: 1px solid #313335;
+//   border-right: 1px solid #313335;
+
+//   &__input {
+//     width: 100%;
+//     height: 100%;
+//     padding-bottom: 20px;
+//     display: flex;
+//   }
+
+//   &__repo {
+//     padding-top: 20px;
+//     border-top: 1px solid #313335;
+//     color: #ffffff;
+//   }
+// }
+
+// .input-search {
+//   width: 70%;
+//   color: #ffffff;
+//   font-size: 15px;
+//   padding: 6px 24px;
+//   border-top-left-radius: 20px;
+//   border-bottom-left-radius: 20px;
+//   background-color: #303134;
+//   border-right: 1px solid #5f6368;
+//   height: 40px;
+//   // margin-right: 10px;
+
+// }
+
+// .button-search {
+//   background-color: #303134;
+//   color: #ffffff;
+//   font-size: 20px;
+
+//   height: 40px;
+//   width: 20%;
+//   border-top-right-radius: 20px;
+//   border-bottom-right-radius: 20px;
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+// }
+
+// .repo {
+
+//   display: flex;
+//   justify-content: space-between;
+//   padding: 15px 5px;
+
+// }
+
+// .name-repository {
+//   display: flex;
+//   flex-direction: column;
+//   justify-content: center;
+
+//   &__link {
+//     text-decoration: none;
+//     color: #4493f8;
+//   }
+
+//   &__link:hover {
+//     // text-decoration: underline;
+//     border-bottom: 2px solid #4493f8;
+//     color: #4493f8;
+//   }
+// }
+
+// .star-container {
+//   display: flex;
+//   align-items: center;
+//   justify-content: center;
+
+//   &__svg {
+//     width: 20px;
+//     height: 20px;
+//     margin-right: 6px;
+//   }
+
+//   &__count {
+//     font-size: 16px;
+//   }
+// }
+
+// .button-paginate {
+//   background-color: #ffffff5b;
+//   border-radius: 20px;
+//   margin-right: 50px;
+//   padding: 20px;
+// }
